@@ -5,7 +5,7 @@ Olá! 👋 Bem-vindo(a) a este projeto de análise visual dos dados do Campeonat
 ## ✨ Painel Interativo Online
 
 Você pode explorar o painel interativo diretamente no seu navegador através deste link:
-[**Visualizar Painel do Brasileirão 2024 no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiMzY5NGVjNTYtYTI4Ny00Yjk0LWJhYTEtZjI1NTRkMjYxMTg5IiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9)
+[**Visualizar Painel do Brasileirão 2024 no Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZjU3YzI5MTQtZjE4YS00MmVhLThkZDUtMWFhZWE4Mjc3MjQwIiwidCI6IjE2OGQ0MTM3LWQ2ZjYtNDVmOC1hYWE3LWQxYTcwMjMzMDk1ZSIsImMiOjR9)
 
 ## 🎯 Objetivo do Projeto
 
